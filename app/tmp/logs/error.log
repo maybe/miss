@@ -1,0 +1,368 @@
+2012-05-29 13:04:16 Error: [MissingControllerException] Controller class AddController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-29 13:11:35 Error: [NotFoundException] Not Found
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(910): include()
+#1 /Users/panda/Sites/missin/lib/Cake/View/View.php(874): View->_evaluate('/Users/panda/Si...', Array)
+#2 /Users/panda/Sites/missin/lib/Cake/View/View.php(465): View->_render('/Users/panda/Si...')
+#3 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#4 /Users/panda/Sites/missin/app/Controller/PagesController.php(80): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#9 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2012-05-29 13:11:44 Error: [NotFoundException] Not Found
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(910): include()
+#1 /Users/panda/Sites/missin/lib/Cake/View/View.php(874): View->_evaluate('/Users/panda/Si...', Array)
+#2 /Users/panda/Sites/missin/lib/Cake/View/View.php(465): View->_render('/Users/panda/Si...')
+#3 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#4 /Users/panda/Sites/missin/app/Controller/PagesController.php(80): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#9 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2012-05-29 13:11:44 Error: [NotFoundException] Not Found
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(910): include()
+#1 /Users/panda/Sites/missin/lib/Cake/View/View.php(874): View->_evaluate('/Users/panda/Si...', Array)
+#2 /Users/panda/Sites/missin/lib/Cake/View/View.php(465): View->_render('/Users/panda/Si...')
+#3 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#4 /Users/panda/Sites/missin/app/Controller/PagesController.php(80): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#9 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2012-05-29 13:11:46 Error: [NotFoundException] Not Found
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(910): include()
+#1 /Users/panda/Sites/missin/lib/Cake/View/View.php(874): View->_evaluate('/Users/panda/Si...', Array)
+#2 /Users/panda/Sites/missin/lib/Cake/View/View.php(465): View->_render('/Users/panda/Si...')
+#3 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#4 /Users/panda/Sites/missin/app/Controller/PagesController.php(80): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#9 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2012-05-29 13:11:50 Error: [NotFoundException] Not Found
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(910): include()
+#1 /Users/panda/Sites/missin/lib/Cake/View/View.php(874): View->_evaluate('/Users/panda/Si...', Array)
+#2 /Users/panda/Sites/missin/lib/Cake/View/View.php(465): View->_render('/Users/panda/Si...')
+#3 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#4 /Users/panda/Sites/missin/app/Controller/PagesController.php(80): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#9 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2012-05-29 13:33:14 Error: [NotFoundException] Not Found
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(910): include()
+#1 /Users/panda/Sites/missin/lib/Cake/View/View.php(874): View->_evaluate('/Users/panda/Si...', Array)
+#2 /Users/panda/Sites/missin/lib/Cake/View/View.php(465): View->_render('/Users/panda/Si...')
+#3 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#4 /Users/panda/Sites/missin/app/Controller/PagesController.php(80): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#9 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2012-05-29 13:40:04 Error: [NotFoundException] Not Found
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(910): include()
+#1 /Users/panda/Sites/missin/lib/Cake/View/View.php(874): View->_evaluate('/Users/panda/Si...', Array)
+#2 /Users/panda/Sites/missin/lib/Cake/View/View.php(465): View->_render('/Users/panda/Si...')
+#3 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#4 /Users/panda/Sites/missin/app/Controller/PagesController.php(85): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#9 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2012-05-29 13:40:07 Error: [NotFoundException] Not Found
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(910): include()
+#1 /Users/panda/Sites/missin/lib/Cake/View/View.php(874): View->_evaluate('/Users/panda/Si...', Array)
+#2 /Users/panda/Sites/missin/lib/Cake/View/View.php(465): View->_render('/Users/panda/Si...')
+#3 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#4 /Users/panda/Sites/missin/app/Controller/PagesController.php(85): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#9 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2012-05-29 13:40:08 Error: [NotFoundException] Not Found
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(910): include()
+#1 /Users/panda/Sites/missin/lib/Cake/View/View.php(874): View->_evaluate('/Users/panda/Si...', Array)
+#2 /Users/panda/Sites/missin/lib/Cake/View/View.php(465): View->_render('/Users/panda/Si...')
+#3 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#4 /Users/panda/Sites/missin/app/Controller/PagesController.php(85): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#9 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2012-05-29 13:40:35 Error: [NotFoundException] Not Found
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(910): include()
+#1 /Users/panda/Sites/missin/lib/Cake/View/View.php(874): View->_evaluate('/Users/panda/Si...', Array)
+#2 /Users/panda/Sites/missin/lib/Cake/View/View.php(465): View->_render('/Users/panda/Si...')
+#3 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#4 /Users/panda/Sites/missin/app/Controller/PagesController.php(88): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#9 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2012-05-29 13:41:19 Error: [NotFoundException] Not Found
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(910): include()
+#1 /Users/panda/Sites/missin/lib/Cake/View/View.php(874): View->_evaluate('/Users/panda/Si...', Array)
+#2 /Users/panda/Sites/missin/lib/Cake/View/View.php(465): View->_render('/Users/panda/Si...')
+#3 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#4 /Users/panda/Sites/missin/app/Controller/PagesController.php(88): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#9 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2012-05-29 13:41:21 Error: [NotFoundException] Not Found
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(910): include()
+#1 /Users/panda/Sites/missin/lib/Cake/View/View.php(874): View->_evaluate('/Users/panda/Si...', Array)
+#2 /Users/panda/Sites/missin/lib/Cake/View/View.php(465): View->_render('/Users/panda/Si...')
+#3 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#4 /Users/panda/Sites/missin/app/Controller/PagesController.php(88): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#9 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2012-05-29 13:41:58 Error: [NotFoundException] Not Found
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(910): include()
+#1 /Users/panda/Sites/missin/lib/Cake/View/View.php(874): View->_evaluate('/Users/panda/Si...', Array)
+#2 /Users/panda/Sites/missin/lib/Cake/View/View.php(465): View->_render('/Users/panda/Si...')
+#3 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#4 /Users/panda/Sites/missin/app/Controller/PagesController.php(88): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#9 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2012-05-29 13:44:05 Error: [NotFoundException] Not Found
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(910): include()
+#1 /Users/panda/Sites/missin/lib/Cake/View/View.php(874): View->_evaluate('/Users/panda/Si...', Array)
+#2 /Users/panda/Sites/missin/lib/Cake/View/View.php(465): View->_render('/Users/panda/Si...')
+#3 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#4 /Users/panda/Sites/missin/app/Controller/PagesController.php(88): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#9 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2012-05-29 13:44:07 Error: [NotFoundException] Not Found
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(910): include()
+#1 /Users/panda/Sites/missin/lib/Cake/View/View.php(874): View->_evaluate('/Users/panda/Si...', Array)
+#2 /Users/panda/Sites/missin/lib/Cake/View/View.php(465): View->_render('/Users/panda/Si...')
+#3 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#4 /Users/panda/Sites/missin/app/Controller/PagesController.php(88): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#9 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2012-05-29 13:44:47 Error: [NotFoundException] Not Found
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(910): include()
+#1 /Users/panda/Sites/missin/lib/Cake/View/View.php(874): View->_evaluate('/Users/panda/Si...', Array)
+#2 /Users/panda/Sites/missin/lib/Cake/View/View.php(465): View->_render('/Users/panda/Si...')
+#3 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#4 /Users/panda/Sites/missin/app/Controller/PagesController.php(91): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#9 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2012-05-29 13:46:21 Error: [NotFoundException] Not Found
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(910): include()
+#1 /Users/panda/Sites/missin/lib/Cake/View/View.php(874): View->_evaluate('/Users/panda/Si...', Array)
+#2 /Users/panda/Sites/missin/lib/Cake/View/View.php(465): View->_render('/Users/panda/Si...')
+#3 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render('home', NULL)
+#4 /Users/panda/Sites/missin/app/Controller/PagesController.php(91): Controller->render('home')
+#5 [internal function]: PagesController->display('home')
+#6 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#7 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#9 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2012-05-30 07:53:32 Error: [MissingControllerException] Controller class PublicController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-30 07:53:32 Error: [MissingControllerException] Controller class PublicController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-30 23:58:05 Error: [MissingViewException] View file "/Users/panda/Sites/missin/app/View/Main/aaa.ctp" is missing.
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(462): View->_getViewFileName('aaa')
+#1 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render('aaa', NULL)
+#2 /Users/panda/Sites/missin/app/Controller/MainController.php(64): Controller->render('aaa')
+#3 [internal function]: MainController->index('aaa')
+#4 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(MainController), Array)
+#5 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#6 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(MainController), Object(CakeRequest), Object(CakeResponse))
+#7 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2012-05-31 00:02:21 Error: [MissingViewException] View file "/Users/panda/Sites/missin/app/View/Main/index.ctp" is missing.
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(462): View->_getViewFileName(NULL)
+#1 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(110): Controller->render()
+#3 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-05-31 00:02:44 Error: [MissingViewException] View file "/Users/panda/Sites/missin/app/View/Main/index.ctp" is missing.
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(462): View->_getViewFileName(NULL)
+#1 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(110): Controller->render()
+#3 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-05-31 00:03:10 Error: [MissingViewException] View file "/Users/panda/Sites/missin/app/View/Main/index.ctp" is missing.
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(462): View->_getViewFileName(NULL)
+#1 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(110): Controller->render()
+#3 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-05-31 00:03:11 Error: [MissingViewException] View file "/Users/panda/Sites/missin/app/View/Main/index.ctp" is missing.
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(462): View->_getViewFileName(NULL)
+#1 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(110): Controller->render()
+#3 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(IndexController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-05-31 00:03:55 Error: [MissingControllerException] Controller class AaController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-31 00:04:04 Error: [MissingControllerException] Controller class AaaController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-31 00:04:47 Error: [MissingControllerException] Controller class AaaController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-05-31 00:08:04 Error: [MissingControllerException] Controller class AaaController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-01 01:12:40 Error: [MissingControllerException] Controller class GroupController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-01 01:13:04 Error: [MissingControllerException] Controller class GroupController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-01 01:13:14 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-01 08:34:54 Error: [MissingActionException] Action UsersController::login() could not be found.
+#0 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2012-06-01 08:35:04 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-01 08:42:49 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-01 12:27:13 Error: [MissingTableException] Table admins for model Admin was not found in datasource default.
+#0 /Users/panda/Sites/missin/lib/Cake/Model/Model.php(3443): Model->setSource('admins')
+#1 /Users/panda/Sites/missin/lib/Cake/Model/Model.php(2698): Model->getDataSource()
+#2 /Users/panda/Sites/missin/lib/Cake/Controller/Component/PaginatorComponent.php(172): Model->find('all', Array)
+#3 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#4 /Users/panda/Sites/missin/app/Controller/AdminController.php(36): Controller->paginate()
+#5 [internal function]: AdminController->index()
+#6 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(AdminController), Array)
+#7 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(AdminController), Object(CakeRequest), Object(CakeResponse))
+#9 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2012-06-01 12:27:52 Error: [MissingTableException] Table admins for model Admin was not found in datasource default.
+#0 /Users/panda/Sites/missin/lib/Cake/Model/Model.php(3443): Model->setSource('admins')
+#1 /Users/panda/Sites/missin/lib/Cake/Model/Model.php(2698): Model->getDataSource()
+#2 /Users/panda/Sites/missin/lib/Cake/Controller/Component/PaginatorComponent.php(172): Model->find('all', Array)
+#3 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#4 /Users/panda/Sites/missin/app/Controller/AdminController.php(36): Controller->paginate()
+#5 [internal function]: AdminController->index()
+#6 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(AdminController), Array)
+#7 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(AdminController), Object(CakeRequest), Object(CakeResponse))
+#9 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2012-06-01 12:27:55 Error: [MissingTableException] Table admins for model Admin was not found in datasource default.
+#0 /Users/panda/Sites/missin/lib/Cake/Model/Model.php(3443): Model->setSource('admins')
+#1 /Users/panda/Sites/missin/lib/Cake/Model/Model.php(2698): Model->getDataSource()
+#2 /Users/panda/Sites/missin/lib/Cake/Controller/Component/PaginatorComponent.php(172): Model->find('all', Array)
+#3 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(1084): PaginatorComponent->paginate(NULL, Array, Array)
+#4 /Users/panda/Sites/missin/app/Controller/AdminController.php(36): Controller->paginate()
+#5 [internal function]: AdminController->index()
+#6 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(AdminController), Array)
+#7 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#8 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(AdminController), Object(CakeRequest), Object(CakeResponse))
+#9 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2012-06-01 12:28:52 Error: [MissingViewException] View file "/Users/panda/Sites/missin/app/View/Users/index.ctp" is missing.
+#0 /Users/panda/Sites/missin/lib/Cake/View/View.php(462): View->_getViewFileName(NULL)
+#1 /Users/panda/Sites/missin/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(110): Controller->render()
+#3 /Users/panda/Sites/missin/lib/Cake/Routing/Dispatcher.php(85): Dispatcher->_invoke(Object(AdminController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2012-06-01 12:31:21 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-02 01:33:13 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-04 16:35:31 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-04 16:35:44 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-04 16:36:02 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-04 16:36:07 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-04 16:36:36 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-04 16:37:26 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-04 16:40:15 Error: [MissingControllerException] Controller class GroupController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-04 23:40:29 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-04 23:56:18 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 00:19:26 Error: [MissingControllerException] Controller class AaController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 07:50:36 Error: [MissingControllerException] Controller class AaaController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-06-05 08:45:00 Error: [MissingControllerException] Controller class UsersController could not be found.
+#0 /Users/panda/Sites/missin/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

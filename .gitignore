@@ -1,5 +1,4 @@
 tmp/*
 config/database.php
-app/tmp/*
 .DS_Store
 !empty
