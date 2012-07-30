@@ -1,4 +1,4 @@
-<--<div id="index-wrapper" style="position: relative;">
+<!--<div id="index-wrapper" style="position: relative;">
   
   <div class="content-block" id="index-new">
     <div class="content-block-top" style="width: 430px; height: 14px; background: url('img/content-block-top-new.png') repeat-x;"></div>
